@@ -4,6 +4,10 @@ body{
     margin-right: 4rem;
 }
 
+.background-image{
+    background-image: url("pictures/pexels-eva-bronzini-7598248.jpg");
+}
+
 nav{
     background-color: #2e2e2e;
     padding: 1rem;
